@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+[![image.png](https://i.postimg.cc/Z56M8zWy/image.png)](https://postimg.cc/VJLgwTBY)
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
+
 License: https://bootstrapmade.com/license/
